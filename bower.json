@@ -1,0 +1,23 @@
+{
+  "name": "jquery-block",
+  "description": "jquery-block",
+  "main": "./jquery.blockui.min.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "block"
+  ],
+  "authors": [
+    "keshaoxia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
